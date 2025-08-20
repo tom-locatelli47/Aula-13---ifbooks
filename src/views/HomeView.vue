@@ -16,12 +16,7 @@ const cartStore = useCartStore();
       <div class="hero-content">
         <h2>Noc Ognia</h2>
         <p>
-          Noc ognia é um romance de Erich-Emmanuel Schmitt, que narra a história de um homem que
-          vive em um mundo onde as pessoas não podem mais sonhar. O livro é uma reflexão sobre a
-          importância dos sonhos e da imaginação na vida humana. Erich-Emmanuel Schmitt é um autor
-          francês conhecido por suas obras que exploram temas filosóficos e existenciais. Ele é um
-          dos autores mais traduzidos da França e suas obras têm sido amplamente elogiadas pela
-          crítica.
+          teste
         </p>
         <button>Acessar página do livro</button>
       </div>
